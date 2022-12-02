@@ -1,0 +1,7 @@
+PORT=//Port of the application -- 8080
+POSTGRES_USER=//User postgres or the database -- postgres
+POSTGRES_HOST=//Host of the database -- localhost
+POSTGRES_DATABASE=//Name of the database -- hitsagency
+POSTGRES_PASSWORD=//password of the user database
+POSTGRES_PORT=//port of the database -- 5432
+SECRET_JWT_SEED=ju570-ch2113ng3
